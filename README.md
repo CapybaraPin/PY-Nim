@@ -4,7 +4,7 @@ Jeu de Nim, le premier entre la machine et le joueur à retirer le dernier pion 
 
 > Remarque : la machine apprend de ses erreurs et retire les possibilités qui mènent à l'échec.
 
-![Demo](https://cdn.hobles.fr/MAkE6/LAkoFOgA11.gif/raw)
+![Demo](https://cdn.hobles.fr/MAkE6/LAkoFOgA11.gif)
 
 # 💾 Librairie python externes :
 * **pygame** : Pygame est une bibliothèque libre multiplate-forme qui facilite le développement de jeux vidéo temps réel avec le langage de programmation Python.
